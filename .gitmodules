@@ -1,0 +1,6 @@
+[submodule "feb11-repo-b"]
+	path = feb11-repo-b
+	url = ../feb11-repo-b
+[submodule "feb11-repo-c"]
+	path = feb11-repo-c
+	url = https://github.com/willsmythe/feb11-repo-c
